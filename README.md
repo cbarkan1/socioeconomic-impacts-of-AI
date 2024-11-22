@@ -2,9 +2,9 @@
 
 Files:
 
-* Barkan-Can_an_increase_in_productivity_cause_a_decrease_in_GDP.pdf
+* AI_productivity_in_noncompetitive_markets.pdf
     * Describes a model which illustrates the possibility that productivity gains from AI automation could decrease GDP.
-    * Note: this report is a work in progress!
+    * Note: this is a work in progress!
 
 * figures.py
-    * Produces the figures in the report.
+    * Solves for the equilibrium quantities an produces the figures in the paper.
