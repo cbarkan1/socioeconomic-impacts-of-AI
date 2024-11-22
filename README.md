@@ -7,4 +7,4 @@ Files:
     * Note: this is a work in progress!
 
 * figures.py
-    * Solves for the equilibrium quantities an produces the figures in the paper.
+    * Solves for the equilibrium quantities and produces the figures in the paper.
